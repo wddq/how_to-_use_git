@@ -1,2 +1,15 @@
 git init
-git add 
+git add
+git commit -m "description"
+git diff text.txt           
+git status
+HEAD
+HEAD^
+HEAD^^
+HEAD~100
+git reset --hard HEAD^
+git reflog                    -----------log information
+git checkout --file.txt       -----------back to last file
+git reset HEAD file.txt
+git rm
+

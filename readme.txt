@@ -1,4 +1,0 @@
-lllll
-klkll
-lllllll
-oooooo

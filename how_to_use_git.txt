@@ -12,4 +12,4 @@ git reflog                    -----------log information
 git checkout --file.txt       -----------back to last file
 git reset HEAD file.txt
 git rm
-
+git push origin master
